@@ -1,4 +1,4 @@
-python
+pj
 ======
 
 my python study project  

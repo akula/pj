@@ -36,4 +36,4 @@ if sys.argv[1].startswith('-'):
         sys.exit()
 else:
     for filename in sys.argv[1:]:
-        readfile(filename)
+        readline(filename)
